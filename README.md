@@ -1,15 +1,15 @@
 # Програма-бот для ведення телефонної книги
 
-### *Python 6 Core HomeWork 11*
+### *Python 6 Core HomeWork 12*
 
 [![Language](https://img.shields.io/badge/language-python-blue)](https://www.python.org)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/VlodyaKr/Python-6-Core-HomeWork-11?color=orange&style=plastic)
-![GitHub Release Date](https://img.shields.io/github/release-date/VlodyaKr/Python-6-Core-HomeWork-11?color=blue&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/VlodyaKr/Python-6-Core-HomeWork-11?style=plastic)
-![GitHub all releases](https://img.shields.io/github/downloads/VlodyaKr/Python-6-Core-HomeWork-11/total?color=blue&style=plastic)
-[![GitHub issues](https://img.shields.io/github/issues/VlodyaKr/Python-6-Core-HomeWork-11?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-11/issues)
-[![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-11?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-11/network)
-[![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-11?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-11/stargazers)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/VlodyaKr/Python-6-Core-HomeWork-12?color=orange&style=plastic)
+![GitHub Release Date](https://img.shields.io/github/release-date/VlodyaKr/Python-6-Core-HomeWork-12?color=blue&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/VlodyaKr/Python-6-Core-HomeWork-12?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/VlodyaKr/Python-6-Core-HomeWork-12/total?color=blue&style=plastic)
+[![GitHub issues](https://img.shields.io/github/issues/VlodyaKr/Python-6-Core-HomeWork-12?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-12/issues)
+[![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-12?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-12/network)
+[![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-12?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-12/stargazers)
 ___
 #### Робота програми
 
@@ -81,12 +81,12 @@ ___
 
 ___
 #### Автор
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-11)](https://github.com/VlodyaKr)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-12)](https://github.com/VlodyaKr)
 
 #### Володимир Кравченко
-[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-11)
+[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-12)
 ___
 #### Ліцензія
-[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-11?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-11/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-12?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-12/blob/main/LICENSE)
 
-Цей проєкт ліцензується відповідно до ліцензії MIT — подробиці див. у файлі [LICENSE](https://github.com/VlodyaKr/Python-6-Core-HomeWork-11/blob/main/LICENSE)
+Цей проєкт ліцензується відповідно до ліцензії MIT — подробиці див. у файлі [LICENSE](https://github.com/VlodyaKr/Python-6-Core-HomeWork-12/blob/main/LICENSE)
